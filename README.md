@@ -42,6 +42,8 @@ Depending on the project, you may need:
   -> Receiving data from non-ROS2 program (python program outside the ROS2 ecosystem)
   -> Early development of custom fusion algorithm using EKF to fuse wheel encoder, freewheel encoder and IMU
 
+---
+
 ## 🧰 Technologies Used
 
 - Languages: `C++`, `Python`
@@ -50,14 +52,20 @@ Depending on the project, you may need:
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Rafif Susena
-Final-Year Electrical Engineering Student | Instrument and Control System specialization | Robotics, Embedded System & IoT Developer
+Final-Year Electrical Engineering Student | Instrument and Control System specialization 
+Robotics, Embedded System & IoT Developer
 
+---
+
+## Contact Me
 🔗 https://www.linkedin.com/in/rafif-susena/
 📧 rafifsusena1@gmail.com
 
-🙏 Acknowledgments
+---
+
+## 🙏 Acknowledgments
 These projects were developed as part of:
 - My Bachelor Final Project on Autonomous X-Drive Robot
 - Contributions to University Robotics Team
