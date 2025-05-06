@@ -54,7 +54,8 @@ Depending on the project, you may need:
 
 ## 🧑‍💻 Author
 Rafif Susena
-Final-Year Electrical Engineering Student | Instrument and Control System specialization 
+Final-Year Electrical Engineering Student | Instrument and Control System specialization
+
 Robotics, Embedded System & IoT Developer
 
 ---
