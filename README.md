@@ -52,7 +52,8 @@ Depending on the project, you may need:
 
 🧑‍💻 Author
 Rafif Susena
-Final-Year Electrical Engineering Student | Robotics & IoT Developer
+Final-Year Electrical Engineering Student | Instrument and Control System specialization | Robotics, Embedded System & IoT Developer
+
 🔗 https://www.linkedin.com/in/rafif-susena/
 📧 rafifsusena1@gmail.com
 
