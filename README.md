@@ -15,8 +15,9 @@ This repository uses **branches** to organize related modules:
 
 | Branch                      | Description                                                                |
 |-----------------------------|----------------------------------------------------------------------------|
-| `main`                      | Main branch with complete source codes for IoT project                     |
+| `main`                      | Main branch with complete source codes for my final project                |
 | `arduino-libs   `           | Custom-built Arduino libraries (e.g., MotorController, IMU)                |
+| `arduino-project   `        | Source code of my Arduino project                                          |
 | `image_processing          `| OpenCV based image processing project                                      |
 | `ABU-robocon-24`            | (Optional) ROS/ROS2 packages and nodes                                     |
 | `communication-protocol`    | Program for python file outside ROS ecosystem to communicate with ROS file |
