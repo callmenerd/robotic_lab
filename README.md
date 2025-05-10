@@ -3,7 +3,7 @@
 This repository contains a collection of my embedded systems projects, focused on **robotics** and **real-time microcontroller programming**. It includes:
 
 - 🧠 Custom Arduino libraries for modular motor control, encoder feedback, IMU sensor filtering, etc.
-- 🤖 Full project source codes for robots (e.g., X-Drive autonomous robot).
+- 🤖 Open to public project source codes for robots (e.g., X-Drive autonomous robot).
 - 🧩 Real-time ROS node implementations for robotic control (ROS2 compatible).
 - 🧪 Tools and examples for sensor calibration, filtering, and PID tuning.
 
@@ -15,11 +15,10 @@ This repository uses **branches** to organize related modules:
 
 | Branch                      | Description                                                                |
 |-----------------------------|----------------------------------------------------------------------------|
-| `main`                      | Main branch with complete source codes for my final project                |
+| `main`                      | Main branch with open to public only source codes for my final project     |
 | `arduino-libs   `           | Custom-built Arduino libraries (e.g., MotorController, IMU)                |
-| `arduino-project   `        | Source code of my Arduino project                                          |
 | `image_processing          `| OpenCV based image processing project                                      |
-| `ABU-robocon-24`            | (Optional) ROS/ROS2 packages and nodes                                     |
+| `ABU-robocon-24`            | Source code for Indonesia's ABU Robot Competition 2024                     |
 | `communication-protocol`    | Program for python file outside ROS ecosystem to communicate with ROS file |
 
 ---
