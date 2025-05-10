@@ -13,13 +13,13 @@ This repository contains a collection of my embedded systems projects, focused o
 
 This repository uses **branches** to organize related modules:
 
-| Branch                      | Description                                                                |
-|-----------------------------|----------------------------------------------------------------------------|
-| `main`                      | Main branch with open to public only source codes for my final project     |
-| `arduino-libs   `           | Custom-built Arduino libraries (e.g., MotorController, IMU)                |
-| `image_processing          `| OpenCV based image processing project                                      |
-| `ABU-robocon-24`            | Source code for Indonesia's ABU Robot Competition 2024                     |
-| `communication-protocol`    | Program for python file outside ROS ecosystem to communicate with ROS file |
+| Branch                      | Description                                                                               |
+|-----------------------------|-------------------------------------------------------------------------------------------|
+| `main`                      | Main branch with open to public only source codes for my final project                    |
+| `arduino-libs   `           | Custom-built Arduino libraries (e.g., MotorController, IMU)                               |
+| `image_processing          `| OpenCV based image processing project, publish image from file outside the ros ecosystem  |
+| `ABU-robocon-24`            | Source code for Indonesia's ABU Robot Competition 2024                                    |
+| `communication-protocol`    | Source code for multiple python file to communicate with each other                       |
 
 ---
 
