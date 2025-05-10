@@ -50,7 +50,13 @@ Depending on the project, you may need:
 
 - Languages: `C++`, `Python`
 - Platforms: `Arduino IDE`, `ROS2`
-- Hardware: `ESP32`, `STM32`, `Raspberry Pi`, `IMU`, `DC Motor`, `Encoder`
+- Hardware: `STM32`, `Raspberry Pi`, `IMU`, `DC Motor`, `Encoder`
+
+---
+
+## 🎬 Sneak Peak Documentation Video
+
+https://github.com/user-attachments/assets/927a0f6e-2085-41fd-a10a-1c49939a6dd1
 
 ---
 
@@ -58,11 +64,11 @@ Depending on the project, you may need:
 Rafif Susena
 Final-Year Electrical Engineering Student | Instrument and Control System specialization
 
-Robotics, Embedded System & IoT Developer
+Robotics, Embedded System (Microcontroller Based) & IoT Developer
 
 ---
 
-## Contact Me
+## 📞 Contact Me
 🔗 https://www.linkedin.com/in/rafif-susena/
 📧 rafifsusena1@gmail.com
 
