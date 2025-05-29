@@ -63,9 +63,9 @@ https://github.com/user-attachments/assets/927a0f6e-2085-41fd-a10a-1c49939a6dd1
 ## 🧑‍💻 Author
 Rafif Susena
 
-Final-Year Electrical Engineering Student | Instrument and Control System specialization
+Graduated from Electrical Engineering Bachelor Program | Instrument and Control System specialization
 
-Robotics, Embedded System (Microcontroller Based) & IoT Developer
+Focus on Robotics, Embedded System (Microcontroller Based) & IoT Developer
 
 ---
 
